@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# This is a Chatting Application made with React.Js
+I used React, scss, redux-toolkit and firebase on this project.
+
+![Ekran görüntüsü 2024-10-19 222956](https://github.com/user-attachments/assets/0e47f5c1-7446-43bc-b210-89cd57196f74)
+
+![Ekran görüntüsü 2024-10-19 223023](https://github.com/user-attachments/assets/cecc418f-d670-4c54-ba15-1afd3dd0de59)
+
+![Ekran görüntüsü 2024-10-19 224451](https://github.com/user-attachments/assets/0440b9d8-acaf-45be-99d0-2dc04788bbab)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
