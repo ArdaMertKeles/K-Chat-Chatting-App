@@ -1,4 +1,4 @@
-# This is a Chatting Application made with React.Js
+# This is a Chatting Application made with React.Js [Live Server](https://kchatting.netlify.app/)
 I used React, scss, redux-toolkit and firebase on this project.
 
 ![Ekran görüntüsü 2024-10-19 222956](https://github.com/user-attachments/assets/0e47f5c1-7446-43bc-b210-89cd57196f74)
